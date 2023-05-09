@@ -1,7 +1,6 @@
 package dbconnection
 
 import (
-	"database/sql"
 	"fmt"
 	"log"
 
